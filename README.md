@@ -1,6 +1,5 @@
-# Bank Loan Report Summary
+Bank Loan Report Summary dashboard (Power BI) 📌 Project Overview
 
-## Overview
 This repository contains a comprehensive financial report summarizing key loan metrics, issuance statistics, and performance indicators. The report provides insights into total loan applications, loan amounts, repayment status, and interest rates.
 
 ## Contents
