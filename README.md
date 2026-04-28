@@ -8,12 +8,6 @@ This repository contains a comprehensive financial report summarizing key loan m
 - **Loan Status:** Summary table showing charged off, current, and fully paid loans along with their financial figures and averages.
 - **Key Metrics:** Average interest rates and debt-to-income ratios across loan categories.
 
-## How to Use
-- Review the summary tables and charts for quick insights.
-- Analyze loan performance trends and risk assessment.
-- Use the data as a reference for financial planning, auditing, or reporting purposes.
-
-
 ---
 
 ## High-Level Metrics
